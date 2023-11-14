@@ -1,0 +1,33 @@
+1.Maximum of two numbers in Python
+2.Write a Python Program for Generating a Report Card
+3.Python program For Checking Leap Year or Not
+4.Python Program to Check weather a candidate Eligible for Vote or not
+5.Python program to check weather Given Number is Divisible by 7 or Not
+6.Python Program to check weather a given number is odd or Even
+7.Write a program to display "Hello" if a number entered by user is a multiple of five , otherwise print "Bye".
+8.Write a program to check whether a person is eligible for voting or not. (accept age from user)
+9.Write a program to check whether the last digit of a number( entered by user ) is divisible by 3 or not.
+10.Write a program to accept percentage from the user and display the grade according to the following criteria:
+ Marks Grade
+ > 90 A
+ > 80 and <= 90 B
+ >= 60 and <= 80 C
+ below 60 D
+11.Write a program to accept the cost price of a bike and display the road tax to be paid according to the following criteria :
+ Cost price (in Rs) Tax
+ > 100000 15 %
+ > 50000 and <= 100000 10%
+ <= 50000 5%
+12.Write a program to accept a number from 1 to 7 and display the name of the day like 1 for Sunday , 2 for Monday and so on.
+13.Write a program to accept a number from 1 to 12 and display name of the month and days in that month like 1 for January and number of days 31 and so on
+14."Accept any city from the user and display monument of that city.
+      City      Monument
+    "Delhi"  : "Red Fort",
+    "Agra"   : "Taj Mahal",
+    "Jaipur" : "Jal Mahal""
+15.Write a program to check whether a person is senior citizen or not.
+16.Write a program to find the lowest number out of two numbers excepted from user.
+17.Write a program to find the largest number out of two numbers excepted from user.
+18.Write a program to whether a number (accepted from user) is divisible by 2 and 3 both.
+19.Write a program to find the largest number out of three numbers excepted from user.
+20.Write a program to check a character is vowel or not.
